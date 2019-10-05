@@ -25,7 +25,7 @@ public class City {
         return cityCode;
     }
 
-    public void setProvinceCode(String citycode) {
+    public void setCityCode(String citycode) {
         this.cityCode = citycode;
     }
 
